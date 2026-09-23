@@ -16,4 +16,23 @@
 
 4. [Texto del enlace](https://www.direccion-del-enlace.com)
 
-5. 
+5. [Memoria de la práctica 1](./practica-01-html-basico/memoria.md)
+   
+7. ![Texto alternativo](ruta-o-url-de-la-imagen.png)
+   
+9. ![Captura del resultado final](./imagenes/resultado.png)
+
+`text-align`
+
+```html
+<h1>Hola mundo</h1>
+```
+
+> Esto es una cita o una nota destacada.
+
+| Práctica | Fecha | Estado |
+|------------|-------------|-------------|
+| Práctica 1 | 10/09/2026 | Terminada |
+| Práctica 2 | 17/09/2026 | En progreso |
+
+---
